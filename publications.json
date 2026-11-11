@@ -1,0 +1,101 @@
+[
+  {
+    "number": "01",
+    "title": "Industrial overcapacity can enable seasonal flexibility in electricity use",
+    "year": 2026,
+    "journal": "Nature Energy",
+    "doi": "10.1038/s41560-026-02073-y",
+    "source_url": "https://www.nature.com/articles/s41560-026-02073-y",
+    "file": "papers/01_2026_NatureEnergy_Seasonal_Industrial_Flexibility.pdf",
+    "size_bytes": 1689367,
+    "sha256": "ee2d6cf564b58b8124ff869747ac0f41c471d0a0427d08827e78d67f4ffd3987"
+  },
+  {
+    "number": "02",
+    "title": "Climate Risk-Averse Power System Planning Under Renewable Drought Events",
+    "year": 2026,
+    "journal": "IEEE Transactions on Power Systems",
+    "doi": "10.1109/TPWRS.2026.3696698",
+    "source_url": "https://ieeexplore.ieee.org/abstract/document/11534961",
+    "file": "papers/02_2026_IEEE_TPWRS_Renewable_Drought_Planning.pdf",
+    "size_bytes": 4114118,
+    "sha256": "f2dc4be77f2173690ccbb615512ee49f2300fe10858d70f445f911adad0cebe6"
+  },
+  {
+    "number": "03",
+    "title": "Unlocking multi-stage flexibility enables cost-competitive hydrogen-based steelmaking in China",
+    "year": 2026,
+    "journal": "Energy & Environmental Science",
+    "doi": "10.1039/d6ee00643d",
+    "source_url": "https://pubs.rsc.org/ee/article-abstract/19/9/2874/1243178",
+    "file": "papers/03_2026_EES_Flexible_Hydrogen_Steelmaking.pdf",
+    "size_bytes": 4815227,
+    "sha256": "e920038077dae5cba623220b7eb0f671a62b408696cbb81182715be5999d0308"
+  },
+  {
+    "number": "04",
+    "title": "Demand for clean marine fuel reshapes China’s ammonia supply chains with viability hinging on pipelines and carbon prices",
+    "year": 2026,
+    "journal": "One Earth",
+    "doi": "10.1016/j.oneear.2026.101677",
+    "source_url": "https://www.cell.com/one-earth/abstract/S2590-3322(26)00078-3",
+    "file": "papers/04_2026_OneEarth_Clean_Ammonia_Supply_Chains.pdf",
+    "size_bytes": 8795745,
+    "sha256": "c95271b08bae54c48938f452a4ab83870cd667fc1a793cf470c79a4dc09a5d76"
+  },
+  {
+    "number": "05",
+    "title": "Scaling green hydrogen and CCUS via cement–methanol co-production in China",
+    "year": 2026,
+    "journal": "Energy & Environmental Science",
+    "doi": "10.1039/d5ee07379k",
+    "source_url": "https://pubs.rsc.org/ee/article/19/6/2028/1230432/Scaling-green-hydrogen-and-CCUS-via-cement",
+    "file": "papers/05_2026_EES_Cement_Methanol_and_CCUS.pdf",
+    "size_bytes": 5439690,
+    "sha256": "95065cedf038025caadf659e4eac20ba565d24b157a5f8b2aac7605b0b9f58a4"
+  },
+  {
+    "number": "06",
+    "title": "Privacy-Enhanced Safe Reinforcement Learning for the Dispatch of a Local Energy Community",
+    "year": 2025,
+    "journal": "IEEE Transactions on Smart Grid",
+    "doi": "10.1109/TSG.2025.3536211",
+    "source_url": "https://ieeexplore.ieee.org/document/10887028",
+    "file": "papers/06_2025_IEEE_TSG_Safe_Energy_Community_Dispatch.pdf",
+    "size_bytes": 5593928,
+    "sha256": "45e21008d68bc85803dcbbd508c33f9028441eb6557e2b061762c81a275df327"
+  },
+  {
+    "number": "07",
+    "title": "Modeling seasonal thermal storage dynamics in the year-round scheduling of renewable energy systems",
+    "year": 2025,
+    "journal": "Applied Energy",
+    "doi": "10.1016/j.apenergy.2024.124828",
+    "source_url": "https://www.sciencedirect.com/science/article/abs/pii/S0306261924022116",
+    "file": "papers/07_2025_AppliedEnergy_Seasonal_Thermal_Storage.pdf",
+    "size_bytes": 2451785,
+    "sha256": "c65760ef0f16273f2e820ba7c6e8969ba565e3dbabcedf25007c89eb7cc04ee1"
+  },
+  {
+    "number": "08",
+    "title": "Assessing decarbonization benefits of transport electrification: A provincial perspective in China",
+    "year": 2026,
+    "journal": "eTransportation",
+    "doi": "10.1016/j.etran.2025.100529",
+    "source_url": "https://www.sciencedirect.com/science/article/abs/pii/S2590116825001365",
+    "file": "papers/08_2026_eTransportation_Transport_Electrification_Benefits.pdf",
+    "size_bytes": 15393307,
+    "sha256": "7f3d86c83052fffd0a04dddaab8da667e399c9e26e3a5cad9bbb370d499ad809"
+  },
+  {
+    "number": "09",
+    "title": "Coordinated operation of alternative fuel vehicle-integrated microgrid in a coupled power-transportation network: a Stackelberg–Nash game framework",
+    "year": 2025,
+    "journal": "Applied Energy",
+    "doi": "10.1016/j.apenergy.2025.126800",
+    "source_url": "https://www.sciencedirect.com/science/article/pii/S0306261925015302",
+    "file": "papers/09_2025_AppliedEnergy_Coupled_Transport_and_Microgrids.pdf",
+    "size_bytes": 6583684,
+    "sha256": "d16420602528c678be809f0022b7a6df73cb1db9a665558f9926aea5927ec1cf"
+  }
+]
